@@ -1,0 +1,13 @@
+/* body defauld */
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+
+}
+.harita {
+    height: 100%;
+    margin: 0px;
+    padding: 0;
+  }
+  
