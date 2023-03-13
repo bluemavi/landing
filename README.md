@@ -1,5 +1,1 @@
-# landing
-# landing
-# ders1
-# landing
-# landing
+<p> landing css html bootstrap destekli proje çalışması</p>
